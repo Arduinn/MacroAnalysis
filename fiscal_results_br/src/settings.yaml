@@ -1,0 +1,5 @@
+report_settings:
+  report_name: "BR Fiscal Report"
+
+  first_page:
+    page_title: "Brazil Fiscal Data"
